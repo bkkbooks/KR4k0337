@@ -20,7 +20,7 @@ assets:
   - {seq: 1, filename: KR4k0337_001-CHANT.yaml, hash: 'sha256:d93d0122fd35e7511eea13e59e2122253ce733affb9fa7e7a7b9a52d72dc4111'}
   - {seq: 2, filename: KR4k0337_002-CHANT.yaml, hash: 'sha256:649ce249bb730aad1cf9dd3887dfe277af355d4499e4d3c579dead25e87d233d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0337_001-CHANT.markers.yaml, hash: 'sha256:d4811b50abcd90d5c2a9e0812a051a52a8a57dd80e1afb46963a7a989a29a050'}
+  - {seq: 1, role: markers, filename: assets/KR4k0337_001-CHANT.markers.yaml, hash: 'sha256:7aff09877781109dc96dd2b62c814d568afebbcc6d119b57618b290cf203395e'}
   - {seq: 2, role: markers, filename: assets/KR4k0337_002-CHANT.markers.yaml, hash: 'sha256:499bf217a9dd13e3518c089e66c62afd5c584af8c5780e21864bf48130b91060'}
 table_of_contents:
 - ref:
@@ -43,4 +43,4 @@ table_of_contents:
   label: 補遺
   type: section
   level: 1
-hash: sha256:ee4be03ee9ecc5524eda5cbcb67fb5d867fe61f8522fc77ae5d57faf0cef0e30
+hash: sha256:a3eda76ff4e3b3221050ca117e7f886ae6b21db6e973472929c7a27fb2526552
